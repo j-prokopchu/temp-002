@@ -1,3 +1,3 @@
 # temp-002
 
-A JavaScript dinot-rex game
+A JavaScript dino 't-rex' game
